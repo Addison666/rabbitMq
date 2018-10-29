@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: spirng-boot-rabbitmq-sender
+  rabbitmq:
+    host: 9.112.162.62
+    port: 5673
+    username: guest
+    password: guest
+
